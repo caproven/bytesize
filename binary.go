@@ -6,5 +6,5 @@ const (
 	Gibibyte
 	Tebibyte
 	Pebibyte
-	Exbiyte
+	Exbibyte
 )
